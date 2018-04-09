@@ -1,0 +1,3 @@
+ -keep class com.ontbee.legacyforks.cn.pedant.SweetAlert.Rotate3dAnimation {
+    public <init>(...);
+ }
